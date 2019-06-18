@@ -9,6 +9,7 @@
 * `k8s-1.10.11` k8s-1.10.11 cluster based on the centos7 image, provisioned with kubeadm
 * `k8s-1.11.0` k8s-1.11.0 cluster based on the centos7 image, provisioned with kubeadm
 * `k8s-1.13.3` k8s-1.13.3 cluster based on the centos7 image, provisioned with kubeadm
+* `k8s-1.13.7` k8s-1.13.7 cluster based on the centos7 image, provisioned with kubeadm
 * `k8s-multus-1.10.4` k8s-1.10.4 cluster based on the centos7 image and uses multus CNI, provisioned with kubeadm
 * `k8s-multus-1.11.1` k8s-1.11.1 cluster based on the centos7 image and uses multus CNI, provisioned with kubeadm
 * `k8s-multus-1.12.2` k8s-1.12.2 cluster based on the centos7 image and uses multus CNI, provisioned with kubeadm
@@ -43,6 +44,7 @@
 * `kubevirtci/k8s-1.10.11:`: `sha256:f563a8ab4719e53c2372c4f41dfe55256677ec7afc442dfaebd494926005e3e5`
 * `kubevirtci/k8s-1.11.0:`: `sha256:4d28fb90ac31fad9788fb0316e3bfd268d7ad322bd1b442075183eacacd1ace2`
 * `kubevirtci/k8s-1.13.3:`: `sha256:9c2b78e11c25b3fd0b24b0ed684a112052dff03eee4ca4bdcc4f3168f9a14396`
+* `kubevirtci/k8s-1.13.7:`: `sha256:9be913b292e838cafa05d8a00f5368cd45e6accb93528586ed6e2d83d65e7e6d`
 * **Deprecated**: `kubevirtci/k8s-multus-1.10.4:`: `sha256:1d16d436347fcb9eba28cad08f6e074d4628e9a097a7325eb1ab87351e7f6d5c`
 * **Deprecated**: `kubevirtci/k8s-multus-1.11.1:`: `sha256:3d35b19105344e270be168920e98287fbefcd5366fdf78681712d05725204559`
 * **Deprecated**: `kubevirtci/k8s-multus-1.12.2:`: `sha256:d3ebf4a59ed379e59552ce8165596ade121d32e6b8782c192ff4f29863547c78`
